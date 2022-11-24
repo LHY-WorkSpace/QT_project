@@ -182,6 +182,7 @@ Makefile: ../Space/Space.pro D:/QT/6.2.4/mingw_64/mkspecs/win32-g++/qmake.conf D
 		D:/QT/6.2.4/mingw_64/mkspecs/features/qt_config.prf \
 		D:/QT/6.2.4/mingw_64/mkspecs/win32-g++/qmake.conf \
 		D:/QT/6.2.4/mingw_64/mkspecs/features/spec_post.prf \
+		.qmake.stash \
 		D:/QT/6.2.4/mingw_64/mkspecs/features/exclusive_builds.prf \
 		D:/QT/6.2.4/mingw_64/mkspecs/features/toolchain.prf \
 		D:/QT/6.2.4/mingw_64/mkspecs/features/default_pre.prf \
@@ -212,7 +213,6 @@ Makefile: ../Space/Space.pro D:/QT/6.2.4/mingw_64/mkspecs/win32-g++/qmake.conf D
 		D:/QT/6.2.4/mingw_64/lib/Qt6Gui.prl \
 		D:/QT/6.2.4/mingw_64/lib/Qt6Core.prl \
 		D:/QT/6.2.4/mingw_64/lib/Qt6EntryPoint.prl \
-		.qmake.stash \
 		D:/QT/6.2.4/mingw_64/mkspecs/features/build_pass.prf \
 		debug/qmake_qmake_qm_files.qrc \
 		release/qmake_qmake_qm_files.qrc
@@ -329,6 +329,7 @@ D:/QT/6.2.4/mingw_64/mkspecs/features/qt_functions.prf:
 D:/QT/6.2.4/mingw_64/mkspecs/features/qt_config.prf:
 D:/QT/6.2.4/mingw_64/mkspecs/win32-g++/qmake.conf:
 D:/QT/6.2.4/mingw_64/mkspecs/features/spec_post.prf:
+.qmake.stash:
 D:/QT/6.2.4/mingw_64/mkspecs/features/exclusive_builds.prf:
 D:/QT/6.2.4/mingw_64/mkspecs/features/toolchain.prf:
 D:/QT/6.2.4/mingw_64/mkspecs/features/default_pre.prf:
@@ -359,7 +360,6 @@ D:/QT/6.2.4/mingw_64/lib/Qt6Widgets.prl:
 D:/QT/6.2.4/mingw_64/lib/Qt6Gui.prl:
 D:/QT/6.2.4/mingw_64/lib/Qt6Core.prl:
 D:/QT/6.2.4/mingw_64/lib/Qt6EntryPoint.prl:
-.qmake.stash:
 D:/QT/6.2.4/mingw_64/mkspecs/features/build_pass.prf:
 debug/qmake_qmake_qm_files.qrc:
 release/qmake_qmake_qm_files.qrc:
